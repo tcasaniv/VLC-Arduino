@@ -2,8 +2,16 @@
 
 Transmisión Inalámbrica entre dos Arduinos mediante luz visible o mejor conocido como VLC (Visible Light Communication).
 
+**Layout VLC**
 ![Layout VLC](Circuito%20VLC_bb.jpg)
 
+**Esquemático VLC**
+![Esquemático VLC](Circuito%20VLC_esquemático.jpg)
+
+**PCB VLC**
+![PCB VLC](Circuito%20VLC_pcb.jpg)
+
+**Circuito VLC**
 ![Circuito VLC](Circuito%202024-06-21.jpg)
 
 ## Emisor
